@@ -7,5 +7,5 @@
     <li> DJango (backend) </li>
     <li> Bootstrap (frontend) </li>
     <li> Pythonanywhere (Deploy) </li>
-http://cvbautista.pythonanywhere.com/
+http://coddeit.pythonanywhere.com/
 </div>
